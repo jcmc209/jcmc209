@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi I'm José Carlos 👋
+📈 Currently pursuing a Master’s in Data Science at CUNEF University.
+🏦 Strong background in Finance with a previous Master’s in Institutions and Financial Markets.
+🛠️ Expanding my expertise in Python, R, SQL, and data visualization tools like Tableau and PowerBI.
 <!--
 **jcmc209/jcmc209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
