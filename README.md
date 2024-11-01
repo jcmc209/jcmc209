@@ -6,13 +6,18 @@
   </a>
 </p>
 
+  I’m diving into data science because I’m fascinated by how programming and machine learning can turn ideas into real-world solutions that matter. In this space, you’ll find my projects, where I experiment with different tools and techniques, from       making predictions to visualizing data, applying what I learn along the way.
+
+  <br>
+
+  I would love to collaborate with others who share a passion for data and discovery. Whether you're just starting out or have years of experience, I believe that sharing knowledge and working together can lead to incredible results. If you're            interested in tackling exciting challenges or just want to exchange ideas, feel free to reach out – let's connect and create something impactful! 👯 📊
 
 <br>
 
-- 📈 Currently pursuing a Master’s in **Data Science** at CUNEF University.<br>
-- 🏦 Strong background in Finance with a previous Master’s in Institutions and Financial Markets.<br>
-- 🛠️ Expanding my expertise in **Python**, **R**, **SQL**, and data visualization tools.<br>
-- 📫 How to reach me: **josecarlsmm@gmail.com**
+  -  📈 Currently pursuing a Master’s in **Data Science** at CUNEF University.<br>
+  -  🏦 Strong background in Finance with a previous Master’s in Institutions and Financial Markets.<br>
+  - 🛠️ Expanding my expertise in **Python**, **R**, **SQL**, and data visualization tools.<br>
+  - 📫 How to reach me: **josecarlsmm@gmail.com**
 
   <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="300" height="300" />
   </p>
