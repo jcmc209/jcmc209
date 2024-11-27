@@ -17,7 +17,7 @@
   -  📈 Currently pursuing a Master’s in **Data Science** at CUNEF University.<br>
   -  🏦 Strong background in Finance with a previous Master’s in Institutions and Financial Markets.<br>
   - 🛠️ Expanding my expertise in **Python**, **R**, **SQL**, and data visualization tools.<br>
-  - 📫 How to reach me: **josecarlsmm@gmail.com**
+  - 📫 How to reach me: **josecarlsmm@gmail.com** or **jose.monescillo@cunef.edu**
 
   <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="300" height="300" />
   </p>
