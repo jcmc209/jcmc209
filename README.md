@@ -9,8 +9,6 @@
   I’m diving into data science because I’m fascinated by how programming and machine learning can turn ideas into real-world solutions that matter. In this space, you’ll find my projects, where I experiment with different tools and techniques
 
   <br>
-  - 📫 How to reach me: **monescillojc@gmail.com** or **jose.monescillo@cunef.edu**
-
   <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="300" height="300" />
   </p>
 
