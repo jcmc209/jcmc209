@@ -2,29 +2,25 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00BFFF&size=22&center=true&vCenter=true&width=650&height=60&lines=Data+Analyst+%40+HPE;Data+Science+Enthusiast;Python+%7C+R+%7C+SQL+Developer;Turning+Data+into+Insights+💡&pause=500" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00BFFF&size=22&center=true&vCenter=true&width=650&height=60&lines=Data+Analyst+%40+HPE;Data+Science+Enthusiast;Python+%7C+R+%7C+SQL+Developer;Turning+Data+into+Insights&pause=500" />
   </a>
 </p>
 
 ---
 
-## 🙋 About Me
+## About Me
 
-<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="coding" width="280" height="280" />
-
-- 💼 **Data Analyst at Hewlett Packard Enterprise (HPE)** — Madrid, Spain
-- 📊 Passionate about transforming raw data into actionable insights
-- 🤖 Fascinated by how Machine Learning can solve real-world problems
-- 🐍 Building projects with Python, R and SQL
-- 📈 Strong interest in data visualization and business intelligence
-- 🎓 Constantly learning and experimenting with new tools & techniques
-- 📍 Based in **Madrid, Spain**
-
-<br clear="right" />
+- **Data Analyst at Hewlett Packard Enterprise (HPE)** — Madrid, Spain
+- Passionate about transforming raw data into actionable insights
+- Fascinated by how Machine Learning can solve real-world problems
+- Building projects with Python, R and SQL
+- Strong interest in data visualization and business intelligence
+- Constantly learning and experimenting with new tools & techniques
+- Based in **Madrid, Spain**
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 **Languages & Data:**
 
@@ -33,6 +29,12 @@
 **Analytics & Viz:**
 
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch)](https://skillicons.dev)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**AI Tools:**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 **Dev Tools:**
 
@@ -40,7 +42,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jcmc209&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" />
@@ -53,7 +55,7 @@
 
 ---
 
-## 📬 Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/monescillojc" target="_blank">
