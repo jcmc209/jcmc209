@@ -29,12 +29,6 @@
 **Analytics & Viz:**
 
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch)](https://skillicons.dev)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-**AI Tools:**
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 **Dev Tools:**
 
@@ -43,11 +37,6 @@
 ---
 
 ## GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jcmc209&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcmc209&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jcmc209&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
@@ -69,8 +58,4 @@
   <a href="https://github.com/jcmc209">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jcmc209&label=Profile%20views&color=00bfff&style=flat" alt="profile views" />
 </p>
